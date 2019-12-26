@@ -11,6 +11,13 @@ With data taken from [Kaggle](https://www.kaggle.com/dgomonov/new-york-city-airb
 
 The map API will display a map zooming into the area specified and mark all the Airbnb listings that satisfies all the filter requirements.
 
+## Dependencies
+
+* ipyleaflet
+* ipywidgets
+* IPython.display
+* csv 
+
 ## Usage
 
 * Run all `ny_airbnb.ipynb`
